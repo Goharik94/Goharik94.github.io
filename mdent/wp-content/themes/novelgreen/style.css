@@ -1,0 +1,54 @@
+/*
+ Theme Name:   NovelGreen
+ Theme URI:    http://www.themehunk.com/product/novelgreen-one-page-wordpress-theme/
+ Description:  The NovelGreen One Page Responsive Theme for WordPress is simple and beautiful theme with live customizer. Edit and check changes instantly. NovelGreen Theme supports Six widget areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery, blog posts). It has multiple useful section (services, testimonial, WooCommerce, pricing, recent post, team, contact us). Contact section with lead capture functionality. This free theme is very helpful for entrepreneur to showcase their business features. Also this single page theme is very helpful for photography site. Drag and drop section scrolling and woo-commerce compatible.
+ Author:       ThemeHunk Team
+ Author URI:   http://www.themehunk.com/
+ Template:     novellite
+ Version:      1.1.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: two-columns, right-sidebar, custom-menu, editor-style, translation-ready, flexible-header, sticky-post, theme-options, featured-image-header, featured-images, e-commerce, photography
+ Text Domain: novelgreen
+*/
+@media (min-width: 1200px){
+.container {
+    width: 100%!important;
+}
+.comment_section{
+	display: none;
+}
+.page_heading_container {
+    background: #88c251!important;
+}
+.navbar .sf-menu li:hover, .navbar .sf-menu li.sfHover, .navbar li.current_page_item, .navbar .sf-menu ul li, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    background: #7f7f7f!important;
+}
+.brz-bg-content{
+background:white;
+top: -42px;
+}
+.brz .css-lfbrd7, .brz [data-css-lfbrd7] {
+    display: block;
+    height: 626px;
+}
+.brz .brz-container__wrap {
+    margin-top: -90px;
+}
+#bheowhwabx{
+   padding:0
+}
+#wpforms-submit-143{
+   background:#88c251;
+   font-size: 17px;
+}
+#wpforms-143-field_2{
+   width: 1105px;
+}
+.css-g81k6d {
+    margin-top: -170px!important;
+}
+.content-bar .post .post_meta {
+    display: none;
+}
+

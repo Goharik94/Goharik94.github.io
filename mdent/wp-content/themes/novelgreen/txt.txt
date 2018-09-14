@@ -1,0 +1,78 @@
+[page_section template="1" position="default" textstyle='dark' position='default']
+<div class="home-wrap"><div class="home-wrap-left">[thrive_headline_focus title="Our Story" orientation="left"]
+<p>In 2010, Loran Simon co-founded Somnowell dental laboratory with his father-in-law Prof. Simon Ash.</p><p>Using digital marketing the Somnowell device was introduced to thousands of patients.After generating almost 100,000 patients enquiries we cracked-the-code for running successful online marketing campaigns.</p></div>
+	
+<div class="home-wrap-right">
+<div class="home-wrap-img-box"><img src="https://www.somnowellmarketing.com/wp-content/uploads/2018/02/Simon-Headshot-round.png" alt="" width="80" height="80" class="aligncenter size-full wp-image-3566" />
+<strong>Simon Ash</strong>
+<span style="font-size:12px !important;">Visiting Professor - Orthodontist
+Co-Founder Somnowell (dental laboratory)</span></div>
+	</div>
+<p style="margin-top:-25px; display:inline-block;">In 2014 Loran founded Somnowell Marketing, a digital marketing agency for dentists.</p>
+</div>
+[/page_section]
+
+
+
+[page_section template="1" position="default" textstyle='dark' position='default']
+[thrive_headline_focus title="Our Story" orientation="left"]
+[one_fourth_3_first]<img class="aligncenter size-full wp-image-3566" src="https://www.somnowellmarketing.com/wp-content/uploads/2018/02/Simon-Headshot-round.png"  width="80" height="80" />
+<p style="text-align: center;"><strong>Simon Ash</strong></p>
+<p style="text-align: center;font-size:12px !important;margin-top: -35px;">Visiting Professor - Orthodontist
+Co-Founder Somnowell (dental laboratory)</p>
+[/one_fourth_3_first][three_fourth_last]<p>In 2010, Loran Simon co-founded Somnowell dental laboratory with his father-in-law Prof. Simon Ash.<br><br>
+Using digital marketing the Somnowell device was introduced to thousands of patients.After generating almost 100,000 patients enquiries we cracked-the-code for running successful online marketing campaigns.<br><br>
+In 2014 Loran founded Somnowell Marketing, a digital marketing agency for dentists.</p>
+[/three_fourth_last]
+[/page_section]
+
+
+
+
+[page_section template="1" position="default" textstyle='dark' position='default']
+<div class="home-wrap"><div class="home-wrap-left">[thrive_headline_focus title="Our Story" orientation="left"]
+<p>In 2010, Loran Simon co-founded Somnowell dental laboratory with his father-in-law Prof. Simon Ash.</p><p>Using digital marketing the Somnowell device was introduced to thousands of patients.After generating almost 100,000 patients enquiries we cracked-the-code for running successful online marketing campaigns.</p></div>
+	
+<div class="home-wrap-right">
+<div class="home-wrap-img-box"><img src="https://www.somnowellmarketing.com/wp-content/uploads/2018/02/Simon-Headshot-round.png" alt="" width="80" height="80" class="aligncenter size-full wp-image-3566" />
+<strong>Simon Ash</strong>
+<span style="font-size:12px !important;">Visiting Professor - Orthodontist
+Co-Founder Somnowell (dental laboratory)</span></div>
+	</div>
+<p style="margin-top:-25px; display:inline-block;">In 2014 Loran founded Somnowell Marketing, a digital marketing agency for dentists.</p>
+</div>
+[/page_section]
+
+
+
+
+[page_section image="https://www.somnowellmarketing.com/wp-content/uploads/2016/09/bg.png" image_tablet="" textstyle="light" position="default" padding_bottom="on" padding_top="on"]
+[content_container max_width="900" align="center"][two_third_first]
+<div style="font-size: 26px; margin-top: -20px;">Want to Learn More? <span style="color: #ffcc00;">Let's Talk! No Obligation.</span></div>
+[/two_third_first][one_third_last][thrive_link color='orange' link='#formlink' target='_self' size='medium' align='aligncenter']START WITH A FREE STRATEGY CALL[/thrive_link][/one_third_last][/content_container][/page_section]
+
+
+
+
+[page_section template="1" position="default" padding_bottom="on" padding_top="on"]
+[thrive_headline_focus title="Designs Guaranteed To Bring In Enquiries" orientation="center"]
+[blank_space height="3em"]
+<img class="aligncenter size-full wp-image-181" src="https://www.somnowellmarketing.com/wp-content/themes/pressive/images/templates//notebook.png" alt="notebook" width="629" height="343" />
+[thrive_link color="blue" link="#formlink" target="_self" size="medium" align="aligncenter"]START WITH A FREE STRATEGY CALL[/thrive_link][/page_section]
+
+
+
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-193" src="https://www.somnowellmarketing.com/wp-content/themes/pressive/images/templates//suitcase-icon.png" alt="suitcase-icon" /></p>
+<h3 style="text-align: center;">We Take Care of Everything</h3>
+
+
+style="border: 2px solid #d0a267;"
+
+<p style="text-align: justify;">
+
+rgb(211,56,30)
+
+.wp-post-image{
+	width: 338px!important;
+  height: 240px;
+}
